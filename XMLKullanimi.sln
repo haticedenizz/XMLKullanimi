@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLKullanimi", "XMLKullanimi\XMLKullanimi.csproj", "{3AE699BC-697B-4A6D-A022-0EB2B1F2F153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSOkuma", "RSSOkuma\RSSOkuma.csproj", "{293F883E-459A-4DDF-BF9B-FCD0A0959BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE699BC-697B-4A6D-A022-0EB2B1F2F153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE699BC-697B-4A6D-A022-0EB2B1F2F153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE699BC-697B-4A6D-A022-0EB2B1F2F153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE699BC-697B-4A6D-A022-0EB2B1F2F153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293F883E-459A-4DDF-BF9B-FCD0A0959BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293F883E-459A-4DDF-BF9B-FCD0A0959BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293F883E-459A-4DDF-BF9B-FCD0A0959BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293F883E-459A-4DDF-BF9B-FCD0A0959BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2169CEE5-3703-45F2-A81B-8B2FB5C8BF1E}
+	EndGlobalSection
+EndGlobal
